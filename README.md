@@ -1,4 +1,4 @@
-# Online-Vahicle-Booking-Market-Segmentation-India
+# Online-Vehicle-Booking-Market-Segmentation-India
 
 ### **Problem Overview**
 The problem statement focuses on a startup in the online vehicle booking industry in India, looking for opportunities to establish a presence amidst fierce competition from giants like Ola and Uber.
